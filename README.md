@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="github_line_animation_black.gif" width="500" />
+</div>
 
 <!--
 **Aaravdalal/Aaravdalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
