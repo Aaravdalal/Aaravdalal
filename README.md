@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github_line_animation_black.gif" width="500" />
+  <img src="github_line_animation_play_once_then_hold(1).gif" width="500" />
 </div>
 
 <!--
