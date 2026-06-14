@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - High Schoool Student
 - Entrepreneur
 - working on projects...
+- I dont push often I just make make make
 ## copycat warning
 - user @stoosieDuck copied my whole format and didn't give credit I would just like too put that out there
 
