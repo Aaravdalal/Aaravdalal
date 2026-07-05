@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## copycat warning
 - user @stoosieDuck copied my whole format and didn't give credit I would just like too put that out there
 
-## languages
+## languages I have worked with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
