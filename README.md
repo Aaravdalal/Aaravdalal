@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## about
-- High Schoool Student
+- High School Student
 - working on projects!
   
 ## languages I have worked with
